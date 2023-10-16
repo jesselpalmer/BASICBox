@@ -1,0 +1,15 @@
+{
+  "name": "basicbox",
+  "version": "0.0.1",
+  "description": "BASICBox is an emulation of classic computers, allowing users to write, run, and store BASIC programs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
